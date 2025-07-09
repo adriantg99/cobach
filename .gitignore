@@ -24,3 +24,5 @@ config/database.php
 config/database.php
 /public/certificados".env_desarrollo" 
 ".env_produccion" 
+.env_desarrollo 
+.env_produccion 
