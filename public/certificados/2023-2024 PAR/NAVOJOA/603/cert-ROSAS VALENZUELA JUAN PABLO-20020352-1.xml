@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CertificadoElectronico>
+  <FirmaAutoridadEducativa nombre="Ing. ADRIAN TORRES GOMEZ" certificado="1" nocertificado="00001000000700992362" sello="&#10;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzqlDZkuXjmtWJWhzaM9r&#10;YyMK7JqtCkkkm7VhokLkw4Do5pX3KHjOYjWOggbDvxEgRyiSiHWAKmIDnHagDTOZ&#10;lmkD9AbhgHV8A33/VALuX6QJXBeACKAhTSZhFeyIBtW2pUgiHo4zQ8clmVSUow9Z&#10;IPmvl8G8kEorGdH0SC86FEZWFeDtAvDSGoOImblSmPs8GLemVuX3boypbcJXSTuF&#10;8zWpB4otYEHUMkCw2/B+JezJvoY22DXOKaFhaYLsPxttUHjR4J2qIy8YvHYEiG+h&#10;GVCZ1zn9AsPihzQPnx3tmy6Qfm1nV1v7KOG9i/33AU7ZHgVLfHAxqF+HMGXFs/aM&#10;XwIDAQAB&#10;&#10;"/>
+  <Plantel clave="2" nombre="NAVOJOA"/>
+  <Alumno noexpediente="20020352" nombre="ROSAS VALENZUELA JUAN PABLO" curp="ROVJ051009HSRSLNA1"/>
+  <Asignaturas total="0">
+    <Asignatura nombre="MATEMATICAS I" ciclo="1" calificacion="70"/>
+    <Asignatura nombre="MATEMATICAS II" ciclo="2" calificacion="70"/>
+    <Asignatura nombre="QUIMICA I" ciclo="1" calificacion="67"/>
+    <Asignatura nombre="QUIMICA II" ciclo="2" calificacion="70"/>
+    <Asignatura nombre="ETICA I" ciclo="1" calificacion="73"/>
+    <Asignatura nombre="ETICA II" ciclo="2" calificacion="60"/>
+    <Asignatura nombre="TALLER DE LECTURA Y REDACCION I" ciclo="1" calificacion="60"/>
+    <Asignatura nombre="TALLER DE LECTURA Y REDACCION II" ciclo="2" calificacion="60"/>
+    <Asignatura nombre="INGLES I" ciclo="1" calificacion="62"/>
+    <Asignatura nombre="INGLES II" ciclo="2" calificacion="63"/>
+    <Asignatura nombre="INFORMATICA I" ciclo="1" calificacion="80"/>
+    <Asignatura nombre="ACTIVIDADES ARTISTICAS II" ciclo="2" calificacion="67"/>
+    <Asignatura nombre="ORIENTACION EDUCATIVA I" ciclo="1" calificacion="70"/>
+    <Asignatura nombre="MATEMATICAS III" ciclo="3" calificacion="60"/>
+    <Asignatura nombre="HISTORIA DE MEXICO II" ciclo="4" calificacion="71"/>
+    <Asignatura nombre="BIOLOGIA I" ciclo="3" calificacion="60"/>
+    <Asignatura nombre="LITERATURA II" ciclo="4" calificacion="60"/>
+    <Asignatura nombre="FISICA I" ciclo="3" calificacion="60"/>
+    <Asignatura nombre="INGLES IV" ciclo="4" calificacion="77"/>
+    <Asignatura nombre="HISTORIA DE MEXICO I" ciclo="3" calificacion="62"/>
+    <Asignatura nombre="CREA CAMPAÑAS PUBLICITARIAS Y PROPAGANDISTICAS" ciclo="4" calificacion="77"/>
+    <Asignatura nombre="LITERATURA I" ciclo="3" calificacion="73"/>
+    <Asignatura nombre="ELABORA MATERIALES PERIODISTICOS" ciclo="4" calificacion="89"/>
+    <Asignatura nombre="INGLES III" ciclo="3" calificacion="100"/>
+    <Asignatura nombre="MATEMATICAS IV" ciclo="4" calificacion="60"/>
+    <Asignatura nombre="GENERA MENSAJES ORALES Y ESCRITOS" ciclo="3" calificacion="65"/>
+    <Asignatura nombre="BIOLOGIA II" ciclo="4" calificacion="73"/>
+    <Asignatura nombre="APLICA LOS CONOCIMIENTOS BASICOS DE LA COMUNICACION" ciclo="3" calificacion="70"/>
+    <Asignatura nombre="FISICA II" ciclo="4" calificacion="61"/>
+    <Asignatura nombre="ORIENTACION EDUCATIVA III" ciclo="3" calificacion="67"/>
+    <Asignatura nombre="ORIENTACION EDUCATIVA IV" ciclo="4" calificacion="75"/>
+    <Asignatura nombre="ACTIVIDADES DEPORTIVAS III" ciclo="3" calificacion="60"/>
+    <Asignatura nombre="ACTIVIDADES DEPORTIVAS IV" ciclo="4" calificacion="100"/>
+    <Asignatura nombre="ECONOMIA I" ciclo="5" calificacion="80"/>
+    <Asignatura nombre="ECOLOGÍA Y MEDIO AMBIENTE" ciclo="6" calificacion="63"/>
+    <Asignatura nombre="DISEÑA MENSAJES EN MATERIALES IMPRESOS" ciclo="5" calificacion="65"/>
+    <Asignatura nombre="HISTORIA UNIVERSAL" ciclo="6" calificacion="60"/>
+    <Asignatura nombre="GEOGRAFIA" ciclo="5" calificacion="82"/>
+    <Asignatura nombre="FILOSOFIA" ciclo="6" calificacion="85"/>
+    <Asignatura nombre="DERECHO I" ciclo="5" calificacion="60"/>
+    <Asignatura nombre="ORIENTACIÓN EDUCATIVA VI" ciclo="6" calificacion="70"/>
+    <Asignatura nombre="PROBABILIDAD Y ESTADISTICA I" ciclo="5" calificacion="70"/>
+    <Asignatura nombre="DESARROLLA PROYECTOS CON FINES DE COMUNICACIÓN VISUAL" ciclo="6" calificacion="72"/>
+    <Asignatura nombre="ESTRUCTURA SOCIOECONOMICA DE MEXICO" ciclo="5" calificacion="70"/>
+    <Asignatura nombre="EMPLEA LOS ELEMENTOS DE LA PRODUCCIÓN EN VIDEO" ciclo="6" calificacion="93"/>
+    <Asignatura nombre="HISTORIA REGIONAL DE SONORA" ciclo="5" calificacion="68"/>
+    <Asignatura nombre="ADMINISTRACION II" ciclo="6" calificacion="65"/>
+    <Asignatura nombre="ADMINISTRACION I" ciclo="5" calificacion="75"/>
+    <Asignatura nombre="DERECHO II" ciclo="6" calificacion="60"/>
+    <Asignatura nombre="ORIENTACION EDUCATIVA V" ciclo="5" calificacion="87"/>
+    <Asignatura nombre="ECONOMIA II" ciclo="6" calificacion="70"/>
+    <Asignatura nombre="PROBABILIDAD Y ESTADISTICA II" ciclo="6" calificacion="79"/>
+  </Asignaturas>
+</CertificadoElectronico>

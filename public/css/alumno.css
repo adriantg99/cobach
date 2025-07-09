@@ -1,0 +1,99 @@
+
+.card-container-alumno {
+    display: flex;
+    /*justify-content: center; /* Centra las tarjetas horizontalmente */
+    padding: 20px;
+    box-sizing: border-box; /* Incluye el padding en el ancho y alto total */
+}
+  
+  .card-alumno {
+    width: calc(33.33% - 10px); /* Calcula el ancho con el 1/3 del espacio entre las tarjetas */
+    margin: 0 10px 0 0; /* Espacio solo en el lado derecho de la tarjeta */
+    border: 1px solid #ddd;
+    padding: 15px;
+    background-color: white; /* Color de fondo de la tarjeta */
+    box-sizing: border-box;
+    border-radius: 10px; /* Redondea los bordes de la tarjeta */
+
+  }
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.responsive {
+    width: 100%;
+    margin-bottom: 20px; /* Espacio entre la tabla y el contenido siguiente */
+}
+
+.responsive th, .responsive td {
+    padding: 8px; /* Ajusta el relleno según sea necesario */
+    text-align: left; /* Alinea el texto a la izquierda */
+    border-radius: 10px; /* Redondea los bordes de la tarjeta */
+}
+
+/* Estilo específico para los elementos <td> dentro de las tablas dentro de las tarjetas */
+.card-td {
+    width: 300px; /* Ancho fijo para los elementos <td> */
+    padding: 8px; /* Ajusta el relleno según sea necesario */
+    border-radius: 10px solid #000000; /* Añade bordes para separar las celdas */
+    border-radius: 10px; /* Redondea los bordes de la tarjeta */
+
+}
+
+/* Media query para hacer el diseño responsive */
+@media (max-width: 768px) {
+    .card-container-alumno {
+        flex-wrap: wrap; /* Permite que las tarjetas se envuelvan en pantallas pequeñas */
+    }
+
+    .card-alumno {
+        width: calc(50% - 10px); /* Calcula el ancho con la mitad del espacio entre las tarjetas */
+        margin: 0 0 20px 0; /* Espacio solo en el lado derecho de la tarjeta en pantallas pequeñas */
+    }
+
+    .responsive th, .responsive td {
+        display: block; /* Muestra las celdas como bloques para apilarlas en pantallas pequeñas */
+        width: 100%; /* Ocupa el ancho completo en pantallas pequeñas */
+        box-sizing: border-box; /* Incluye el padding y el borde en el ancho total */   
+            border-radius: 10px; /* Redondea los bordes de la tarjeta */
+
+}
+}
+
+th.text-right, td.text-right {
+  text-align: right; /* Alineación a la derecha para las celdas con la clase text-right */
+}
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #f0f0f0;
+    padding: 10px;
+  }
+  
+  .nav-item {
+    margin: 0; /* Eliminar el margen entre los ítems */
+    padding: 10px;
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+  }
+  
+  @media (max-width: 768px) {
+    .navbar {
+      flex-wrap: wrap;
+    }
+  
+    .nav-item {
+      flex: 1 0 calc(50% - 20px);
+      margin-bottom: 10px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .nav-item {
+      flex: 1 0 100%;
+    }
+  }

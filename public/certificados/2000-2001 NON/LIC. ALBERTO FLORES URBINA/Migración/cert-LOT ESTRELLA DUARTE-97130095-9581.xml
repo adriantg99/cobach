@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CertificadoElectronico>
+  <FirmaAutoridadEducativa nombre="" certificado="9581" nocertificado="00001000000514247037" sello="&#10;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhkwO4OKqtBYKuPJsaecc&#10;lOgiMvYkOP/ecTbili7afIiCcLGvFpekJPaiUSTuzqzF+Uv8y79JHfkU1D0KE3k/&#10;nKimK5tz3m8faYEyGNQw9iRjR7QpjZB079s7CWx1q/Ty9NmTFwFxpb/7vzlMSE2N&#10;Nc6SnTlJu6DlXQ34TPfnQbL36V11QydPEILx2UatQy+EtS3U2kqY6whximDOqj6f&#10;rNxoOwr/6L8kk/Qdr6k3p+MBM/jy35cAxWWimcnwPSsuWxSIh6IHHOdJAZlhBwX/&#10;GpUTAvjERPq6q6/1dcOaCoQSaoYu4Y3DIhaHBsphCeWd1qYihzThn/Hii9LU7hQq&#10;8wIDAQAB&#10;&#10;"/>
+  <Plantel clave="13" nombre="ETCHOJOA"/>
+  <Alumno noexpediente="97130095" nombre="LOT ESTRELLA DUARTE" curp="EEDL800822MSRSRT05"/>
+  <Asignaturas total="0">
+    <Asignatura nombre="MATEMATICAS I" ciclo="1" calificacion="66.00"/>
+    <Asignatura nombre="MATEMATICAS II" ciclo="2" calificacion="90.00"/>
+    <Asignatura nombre="QUIMICA I" ciclo="1" calificacion="67.00"/>
+    <Asignatura nombre="FISICA I" ciclo="2" calificacion="73.00"/>
+    <Asignatura nombre="GEOGRAFIA" ciclo="1" calificacion="73.00"/>
+    <Asignatura nombre="QUIMICA II" ciclo="2" calificacion="68.00"/>
+    <Asignatura nombre="INTRODUCCION A LAS CIENCIAS SOCIALES" ciclo="1" calificacion="92.00"/>
+    <Asignatura nombre="HISTORIA DE MEXICO I" ciclo="2" calificacion="100.00"/>
+    <Asignatura nombre="TALLER DE LECTURA Y REDACCION I" ciclo="1" calificacion="88.00"/>
+    <Asignatura nombre="TALLER DE LECTURA Y REDACCION II" ciclo="2" calificacion="71.00"/>
+    <Asignatura nombre="LENGUA ADICIONAL AL ESPAÑOL I" ciclo="1" calificacion="72.00"/>
+    <Asignatura nombre="LENGUA ADICIONAL AL ESPAÑOL II" ciclo="2" calificacion="63.00"/>
+    <Asignatura nombre="INFORMATICA I" ciclo="1" calificacion="67.00"/>
+    <Asignatura nombre="INFORMATICA II" ciclo="2" calificacion="67.00"/>
+    <Asignatura nombre="MATEMATICAS III" ciclo="3" calificacion="60.00"/>
+    <Asignatura nombre="MATEMATICAS IV" ciclo="4" calificacion="60.00"/>
+    <Asignatura nombre="FISICA II" ciclo="3" calificacion="67.00"/>
+    <Asignatura nombre="BIOLOGIA II" ciclo="4" calificacion="67.00"/>
+    <Asignatura nombre="BIOLOGIA I" ciclo="3" calificacion="60.00"/>
+    <Asignatura nombre="INDIVIDUO Y SOCIEDAD" ciclo="4" calificacion="80.00"/>
+    <Asignatura nombre="QUIMICA III" ciclo="3" calificacion="66.00"/>
+    <Asignatura nombre="ESTRUCTURA SOCIOECONOMICA DE MEXICO" ciclo="4" calificacion="70.00"/>
+    <Asignatura nombre="HISTORIA DE MEXICO II" ciclo="3" calificacion="88.00"/>
+    <Asignatura nombre="LITERATURA II" ciclo="4" calificacion="85.00"/>
+    <Asignatura nombre="FILOSOFIA" ciclo="3" calificacion="80.00"/>
+    <Asignatura nombre="LENGUA ADICIONAL AL ESPAÑOL IV" ciclo="4" calificacion="77.00"/>
+    <Asignatura nombre="LENGUA ADICIONAL AL ESPAÑOL III" ciclo="3" calificacion="78.00"/>
+    <Asignatura nombre="LITERATURA UNIVERSAL" ciclo="4" calificacion="75.00"/>
+    <Asignatura nombre="LITERATURA I" ciclo="3" calificacion="77.00"/>
+    <Asignatura nombre="SOCIOLOGIA" ciclo="4" calificacion="80.00"/>
+    <Asignatura nombre="ECOLOGIA Y MEDIO AMBIENTE" ciclo="5" calificacion="72.00"/>
+    <Asignatura nombre="HISTORIA DE NUESTRO TIEMPO" ciclo="6" calificacion="70.00"/>
+    <Asignatura nombre="LENGUA ADICIONAL AL ESPAÑOL V" ciclo="5" calificacion="84.00"/>
+    <Asignatura nombre="ETIMOLOGIAS GRECOLATINAS" ciclo="6" calificacion="77.00"/>
+    <Asignatura nombre="CULTURA Y SOCIEDAD SONORENSE" ciclo="5" calificacion="71.00"/>
+    <Asignatura nombre="LENGUA ADICIONAL AL ESPAÑOL VI" ciclo="6" calificacion="90.00"/>
+    <Asignatura nombre="PSICOLOGIA" ciclo="5" calificacion="76.00"/>
+    <Asignatura nombre="CIENCIAS DE LA COMUNICACION" ciclo="6" calificacion="65.00"/>
+    <Asignatura nombre="DERECHOS HUMANOS" ciclo="5" calificacion="77.00"/>
+    <Asignatura nombre="ANTROPOLOGIA SOCIAL" ciclo="6" calificacion="62.00"/>
+    <Asignatura nombre="COMUNICACION I" ciclo="5" calificacion="63.00"/>
+    <Asignatura nombre="COMUNICACION II" ciclo="6" calificacion="70.00"/>
+    <Asignatura nombre="TALLER DE MATERIALES IMPRESOS I" ciclo="5" calificacion="60.00"/>
+    <Asignatura nombre="VIDEO" ciclo="6" calificacion="60.00"/>
+    <Asignatura nombre="EXPRESION ORAL Y ESCRITA" ciclo="5" calificacion="67.00"/>
+    <Asignatura nombre="TALLER DE MATERIALES IMPRESOS II" ciclo="6" calificacion="60.00"/>
+    <Asignatura nombre="FOTOGRAFIA" ciclo="5" calificacion="69.00"/>
+    <Asignatura nombre="HERRAMIENTAS DE PERIODISMO" ciclo="6" calificacion="60.00"/>
+  </Asignaturas>
+</CertificadoElectronico>

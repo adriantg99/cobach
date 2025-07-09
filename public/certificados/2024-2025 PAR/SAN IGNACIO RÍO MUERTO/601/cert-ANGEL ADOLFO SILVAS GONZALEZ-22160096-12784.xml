@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CertificadoElectronico>
+  <FirmaAutoridadEducativa nombre="DR. RODRIGO ARTURO ROSAS BURGOS" certificado="12784" nocertificado="00001000000514247037" sello="&#10;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhkwO4OKqtBYKuPJsaecc&#10;lOgiMvYkOP/ecTbili7afIiCcLGvFpekJPaiUSTuzqzF+Uv8y79JHfkU1D0KE3k/&#10;nKimK5tz3m8faYEyGNQw9iRjR7QpjZB079s7CWx1q/Ty9NmTFwFxpb/7vzlMSE2N&#10;Nc6SnTlJu6DlXQ34TPfnQbL36V11QydPEILx2UatQy+EtS3U2kqY6whximDOqj6f&#10;rNxoOwr/6L8kk/Qdr6k3p+MBM/jy35cAxWWimcnwPSsuWxSIh6IHHOdJAZlhBwX/&#10;GpUTAvjERPq6q6/1dcOaCoQSaoYu4Y3DIhaHBsphCeWd1qYihzThn/Hii9LU7hQq&#10;8wIDAQAB&#10;&#10;"/>
+  <Plantel clave="16" nombre="SAN IGNACIO RÍO MUERTO"/>
+  <Alumno noexpediente="22160096" nombre="ANGEL ADOLFO SILVAS GONZALEZ" curp="SIGA070709HSRLNNA4"/>
+  <Asignaturas total="0">
+    <Asignatura nombre="MATEMATICAS I" ciclo="1" calificacion="85.00"/>
+    <Asignatura nombre="MATEMATICAS II" ciclo="2" calificacion="88.00"/>
+    <Asignatura nombre="QUIMICA I" ciclo="1" calificacion="83.00"/>
+    <Asignatura nombre="QUIMICA II" ciclo="2" calificacion="89.00"/>
+    <Asignatura nombre="ETICA I" ciclo="1" calificacion="95.00"/>
+    <Asignatura nombre="ETICA II" ciclo="2" calificacion="87.00"/>
+    <Asignatura nombre="METODOLOGIA DE LA INVESTIGACION" ciclo="1" calificacion="98.00"/>
+    <Asignatura nombre="INTRODUCCION A LAS CIENCIAS SOCIALES" ciclo="2" calificacion="85.00"/>
+    <Asignatura nombre="TALLER DE LECTURA Y REDACCION I" ciclo="1" calificacion="94.00"/>
+    <Asignatura nombre="TALLER DE LECTURA Y REDACCION II" ciclo="2" calificacion="98.00"/>
+    <Asignatura nombre="INGLES I" ciclo="1" calificacion="97.00"/>
+    <Asignatura nombre="INGLES II" ciclo="2" calificacion="100.00"/>
+    <Asignatura nombre="INFORMATICA I" ciclo="1" calificacion="85.00"/>
+    <Asignatura nombre="INFORMATICA II" ciclo="2" calificacion="83.00"/>
+    <Asignatura nombre="MATEMATICAS III" ciclo="3" calificacion="82.00"/>
+    <Asignatura nombre="MATEMATICAS IV" ciclo="4" calificacion="84.00"/>
+    <Asignatura nombre="BIOLOGIA I" ciclo="3" calificacion="95.00"/>
+    <Asignatura nombre="BIOLOGIA II" ciclo="4" calificacion="85.00"/>
+    <Asignatura nombre="FISICA I" ciclo="3" calificacion="89.00"/>
+    <Asignatura nombre="FISICA II" ciclo="4" calificacion="88.00"/>
+    <Asignatura nombre="HISTORIA DE MEXICO I" ciclo="3" calificacion="100.00"/>
+    <Asignatura nombre="HISTORIA DE MEXICO II" ciclo="4" calificacion="86.00"/>
+    <Asignatura nombre="LITERATURA I" ciclo="3" calificacion="90.00"/>
+    <Asignatura nombre="LITERATURA II" ciclo="4" calificacion="91.00"/>
+    <Asignatura nombre="INGLES III" ciclo="3" calificacion="98.00"/>
+    <Asignatura nombre="INGLES IV" ciclo="4" calificacion="84.00"/>
+    <Asignatura nombre="UTILIZA EL CALCULO CALORICO EN LA PLANEACION DE DIETAS CON DIFERENTES VARIABLES" ciclo="3" calificacion="83.00"/>
+    <Asignatura nombre="PARTICIPA EN PROGRAMAS PREVENTIVOS DE SALUD" ciclo="4" calificacion="93.00"/>
+    <Asignatura nombre="APLICA METODOS DE CONSERVACION EN ALIMENTOS VEGETALES PARA EL CUIDADO DE LA SALUD" ciclo="3" calificacion="94.00"/>
+    <Asignatura nombre="APLICA METODOS DE CONSERVACION EN ALIMENTOS LACTEOS Y CARNICOS PARA EL CUIDADO DE LA SALUD" ciclo="4" calificacion="85.00"/>
+    <Asignatura nombre="GEOGRAFIA" ciclo="5" calificacion="99.00"/>
+    <Asignatura nombre="ECOLOGIA Y MEDIO AMBIENTE" ciclo="6" calificacion="100.00"/>
+    <Asignatura nombre="HISTORIA REGIONAL DE SONORA" ciclo="5" calificacion="97.00"/>
+    <Asignatura nombre="HISTORIA UNIVERSAL" ciclo="6" calificacion="98.00"/>
+    <Asignatura nombre="ESTRUCTURA SOCIOECONOMICA DE MEXICO" ciclo="5" calificacion="96.00"/>
+    <Asignatura nombre="FILOSOFIA" ciclo="6" calificacion="100.00"/>
+    <Asignatura nombre="TEMAS SELECTOS DE QUIMICA I" ciclo="5" calificacion="88.00"/>
+    <Asignatura nombre="CALCULO DIFERENCIAL E INTEGRAL II" ciclo="6" calificacion="83.00"/>
+    <Asignatura nombre="TEMAS SELECTOS DE BIOLOGIA I" ciclo="5" calificacion="97.00"/>
+    <Asignatura nombre="CIENCIAS DE LA SALUD II" ciclo="6" calificacion="99.00"/>
+    <Asignatura nombre="CIENCIAS DE LA SALUD I" ciclo="5" calificacion="96.00"/>
+    <Asignatura nombre="TEMAS SELECTOS DE BIOLOGIA II" ciclo="6" calificacion="96.00"/>
+    <Asignatura nombre="CALCULO DIFERENCIAL E INTEGRAL I" ciclo="5" calificacion="81.00"/>
+    <Asignatura nombre="TEMAS SELECTOS DE QUIMICA II" ciclo="6" calificacion="87.00"/>
+    <Asignatura nombre="DISEÑA DIETAS PARA PREVENCION Y TRATAMIENTOS DE ENFERMEDADES" ciclo="5" calificacion="89.00"/>
+    <Asignatura nombre="DESARROLLA SERVICIOS DE PREPARACIÓN Y VENTA DE ALIMENTOS" ciclo="6" calificacion="85.00"/>
+    <Asignatura nombre="MANEJA ADECUADAMENTE LOS ALIMENTOS EN BENEFICIO DE LA SALUD" ciclo="5" calificacion="84.00"/>
+    <Asignatura nombre="ELABORA NUEVO PRODUCTO ALIMENTICIO PARA SATISFACER NECESIDADES DE LAS ETAPAS DE LA VIDA DEL CONSUMIDOR" ciclo="6" calificacion="93.00"/>
+  </Asignaturas>
+</CertificadoElectronico>

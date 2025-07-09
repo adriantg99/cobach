@@ -1,0 +1,75 @@
+
+-php usa el archivo .env_desarrollo para hacer tu archivo .env
+
+-crea una segunda base de datos y nombrala 
+sce-cobach-bitacora
+-crea una tercer base de datos y nombrala 
+sce-cobach-doctos_docentes
+-crea una cuarta base de datos y nombrala 
+sce-cobach-doctos_alumnos
+
+-php artisan migrate --seed
+
+-2023-10-05 -- Ejecuta inmediatamente para cargar los permisos 
+php artisan cache:clear
+
+
+-Para hacer cambios en los archivos de vue despues de cada cambio en consola se sebe ejecutar:
+npm run dev
+o bien:
+npm run watch
+para recompilar el app.js,
+
+
+
+--------------------------------------------CONSULTAS PARA QUITAR DUPLICADOS EN CALIFICACIONES ---------------------
+
+1----QUITAR TABLA DE DUPLICADAS ------------------
+drop table calificaciones_repetidas;
+
+2--- CREA TABLA -----------------------
+ create table calificaciones_repetidas(
+  date varchar(20),
+  curso_id int,
+  alumno_id int,
+  politica_variable_id int,
+  cuantos int
+ );
+
+3----INSERTAR DATOS A LA LISTA DE REPETIDOS ----------------
+INSERT INTO calificaciones_repetidas (date, curso_id, alumno_id, politica_variable_id ,cuantos)
+  SELECT esc_curso.created_at AS crea_grupo, esc_calificacion.curso_id, esc_calificacion.alumno_id, esc_calificacion.politica_variable_id, COUNT(esc_calificacion.id) AS cuantos
+FROM esc_calificacion 
+INNER JOIN esc_curso ON esc_calificacion.curso_id =  esc_curso.id
+GROUP BY  crea_grupo, esc_calificacion.curso_id, esc_calificacion.alumno_id, esc_calificacion.politica_variable_id
+HAVING ((cuantos > 1) AND (crea_grupo > '2023-12-01 00:00:00'));
+
+4----- CREA TABLA TEMPORAL CON LOS ID A BORRAR ---------------
+CREATE TEMPORARY TABLE esc_calificacion_eliminar 
+SELECT esc_calificacion.id
+FROM esc_calificacion 
+INNER JOIN calificaciones_repetidas
+ON esc_calificacion.alumno_id = calificaciones_repetidas.alumno_id AND 
+esc_calificacion.curso_id = calificaciones_repetidas.curso_id
+WHERE (id NOT IN (
+	SELECT  MAX(id) AS id
+FROM esc_calificacion 
+INNER JOIN calificaciones_repetidas
+ON esc_calificacion.alumno_id = calificaciones_repetidas.alumno_id AND 
+esc_calificacion.curso_id = calificaciones_repetidas.curso_id
+GROUP BY  esc_calificacion.alumno_id, esc_calificacion.curso_id
+));
+
+
+4--- BORRAR REPETIDOS --------------------------
+DELETE FROM esc_calificacion WHERE id IN (
+    SELECT id FROM esc_calificacion_eliminar
+);
+
+5----- REVISAR SI HAY MAS REPETIDOS
+SELECT esc_curso.created_at AS crea_grupo, esc_calificacion.curso_id, esc_calificacion.alumno_id, esc_calificacion.politica_variable_id, COUNT(esc_calificacion.id) AS cuantos
+FROM esc_calificacion 
+INNER JOIN esc_curso ON esc_calificacion.curso_id =  esc_curso.id
+GROUP BY  crea_grupo, esc_calificacion.curso_id, esc_calificacion.alumno_id, esc_calificacion.politica_variable_id
+HAVING ((cuantos > 1) AND (crea_grupo > '2023-12-01 00:00:00'));
+

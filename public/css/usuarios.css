@@ -1,0 +1,54 @@
+.contenedor {
+    display: flex;
+    flex-wrap: wrap; /* Permite que los elementos se envuelvan en pantallas más pequeñas */
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Paginación */
+.pagination {
+    margin: 10px 0; /* Espaciado alrededor de la paginación */
+    flex: 1; /* Ocupa todo el espacio disponible en pantallas más pequeñas */
+    display: flex;
+    justify-content: center; /* Centra los elementos en la paginación */
+    align-items: center;
+    list-style: none; /* Elimina los estilos de la lista */
+    padding: 0;
+}
+
+/* Estilos del select */
+.buscador {
+    position: absolute;
+    right: 0;
+    width: 25%; /* 25% del ancho del formulario */
+    /* Ajusta la altura según tus necesidades o deja que se ajuste automáticamente */
+    /* height: 100%; */
+    box-sizing: border-box; /* Incluye el pa */
+    margin-right: 20px; /* Ajusta el margen derecho según tus necesidades */
+    flex: 1; /* Ocupa todo el espacio disponible en pantallas más pequeñas */
+
+
+}
+.tabla_horarios{
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid black;
+
+}
+
+.th_horarios{
+    padding: 10px;
+    text-align: center;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+#miTabla {
+    border-collapse: collapse;
+}
+
+#miTabla th, #miTabla td {
+    border: 1px solid black;
+    padding: 5px;
+}
+

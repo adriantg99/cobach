@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CertificadoElectronico>
+  <FirmaAutoridadEducativa nombre="Ing. ADRIAN TORRES GOMEZ" certificado="142" nocertificado="00001000000700992362" sello="&#10;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzqlDZkuXjmtWJWhzaM9r&#10;YyMK7JqtCkkkm7VhokLkw4Do5pX3KHjOYjWOggbDvxEgRyiSiHWAKmIDnHagDTOZ&#10;lmkD9AbhgHV8A33/VALuX6QJXBeACKAhTSZhFeyIBtW2pUgiHo4zQ8clmVSUow9Z&#10;IPmvl8G8kEorGdH0SC86FEZWFeDtAvDSGoOImblSmPs8GLemVuX3boypbcJXSTuF&#10;8zWpB4otYEHUMkCw2/B+JezJvoY22DXOKaFhaYLsPxttUHjR4J2qIy8YvHYEiG+h&#10;GVCZ1zn9AsPihzQPnx3tmy6Qfm1nV1v7KOG9i/33AU7ZHgVLfHAxqF+HMGXFs/aM&#10;XwIDAQAB&#10;&#10;"/>
+  <Plantel clave="17" nombre="PUEBLO YAQUI"/>
+  <Alumno noexpediente="21170169" nombre="JESUS IRAM MATUZ LOZOYA" curp="MALJ060508HSRTZSA0"/>
+  <Asignaturas total="0">
+    <Asignatura nombre="MATEMATICAS I" ciclo="1" calificacion="70"/>
+    <Asignatura nombre="MATEMATICAS II" ciclo="2" calificacion="63"/>
+    <Asignatura nombre="QUIMICA I" ciclo="1" calificacion="85"/>
+    <Asignatura nombre="QUIMICA II" ciclo="2" calificacion="87"/>
+    <Asignatura nombre="ETICA I" ciclo="1" calificacion="73"/>
+    <Asignatura nombre="ETICA II" ciclo="2" calificacion="84"/>
+    <Asignatura nombre="METODOLOGIA DE LA INVESTIGACION" ciclo="1" calificacion="60"/>
+    <Asignatura nombre="INTRODUCCION A LAS CIENCIAS SOCIALES" ciclo="2" calificacion="60"/>
+    <Asignatura nombre="TALLER DE LECTURA Y REDACCION I" ciclo="1" calificacion="64"/>
+    <Asignatura nombre="INGLES II" ciclo="2" calificacion="60"/>
+    <Asignatura nombre="INGLES I" ciclo="1" calificacion="60"/>
+    <Asignatura nombre="INFORMATICA I" ciclo="1" calificacion="72"/>
+    <Asignatura nombre="MATEMATICAS III" ciclo="3" calificacion="60"/>
+    <Asignatura nombre="MATEMATICAS IV" ciclo="4" calificacion="61"/>
+    <Asignatura nombre="BIOLOGIA I" ciclo="3" calificacion="80"/>
+    <Asignatura nombre="BIOLOGIA II" ciclo="4" calificacion="60"/>
+    <Asignatura nombre="FISICA I" ciclo="3" calificacion="61"/>
+    <Asignatura nombre="HISTORIA DE MEXICO II" ciclo="4" calificacion="78"/>
+    <Asignatura nombre="HISTORIA DE MEXICO I" ciclo="3" calificacion="70"/>
+    <Asignatura nombre="INGLES IV" ciclo="4" calificacion="67"/>
+    <Asignatura nombre="LITERATURA I" ciclo="3" calificacion="61"/>
+    <Asignatura nombre="ELABORA DOCUMENTOS ELECTRONICOS Y PROYECTOS UTILIZANDO SOFTWARE DE APLICACION" ciclo="4" calificacion="70"/>
+    <Asignatura nombre="INGLES III" ciclo="3" calificacion="67"/>
+    <Asignatura nombre="UTILIZA SOFTWARE DE APLICACION PARA ELABORAR HOJAS DE CALCULO" ciclo="4" calificacion="67"/>
+    <Asignatura nombre="OPERA Y APLICA EL MANTENIMIENTO EN LOS EQUIPOS DE COMPUTO" ciclo="3" calificacion="62"/>
+    <Asignatura nombre="OPERA UNA RED DE AREA LOCAL" ciclo="3" calificacion="77"/>
+    <Asignatura nombre="SOCIOLOGIA I" ciclo="5" calificacion="87"/>
+    <Asignatura nombre="ECOLOGÍA Y MEDIO AMBIENTE" ciclo="6" calificacion="70"/>
+    <Asignatura nombre="PROBABILIDAD Y ESTADISTICA I" ciclo="5" calificacion="68"/>
+    <Asignatura nombre="HISTORIA UNIVERSAL" ciclo="6" calificacion="70"/>
+    <Asignatura nombre="CIENCIAS DE LA COMUNICACION I" ciclo="5" calificacion="95"/>
+    <Asignatura nombre="FILOSOFIA" ciclo="6" calificacion="67"/>
+    <Asignatura nombre="GEOGRAFIA" ciclo="5" calificacion="80"/>
+    <Asignatura nombre="PRODUCE ANIMACIONES CON ELEMENTOS MULTIMEDIA" ciclo="6" calificacion="78"/>
+    <Asignatura nombre="HISTORIA REGIONAL DE SONORA" ciclo="5" calificacion="68"/>
+    <Asignatura nombre="ELABORA PÁGINAS WEB" ciclo="6" calificacion="83"/>
+    <Asignatura nombre="ESTRUCTURA SOCIOECONOMICA DE MEXICO" ciclo="5" calificacion="61"/>
+    <Asignatura nombre="CIENCIAS DE LA COMUNICACION II" ciclo="6" calificacion="97"/>
+    <Asignatura nombre="DERECHO I" ciclo="5" calificacion="71"/>
+    <Asignatura nombre="DERECHO II" ciclo="6" calificacion="60"/>
+    <Asignatura nombre="UTILIZA EL SOFTWARE DE DISEÑO PARA EL MANEJO DE GRAFICOS" ciclo="5" calificacion="93"/>
+    <Asignatura nombre="PROBABILIDAD Y ESTADISTICA II" ciclo="6" calificacion="60"/>
+    <Asignatura nombre="UTILIZA SOFTWARE DE APLICACION PARA EDICION DE IMAGENES" ciclo="5" calificacion="91"/>
+    <Asignatura nombre="SOCIOLOGIA II" ciclo="6" calificacion="84"/>
+  </Asignaturas>
+</CertificadoElectronico>

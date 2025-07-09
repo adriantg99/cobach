@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CertificadoElectronico>
+  <FirmaAutoridadEducativa nombre="DR. RODRIGO ARTURO ROSAS BURGOS" certificado="10124" nocertificado="00001000000514247037" sello="&#10;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhkwO4OKqtBYKuPJsaecc&#10;lOgiMvYkOP/ecTbili7afIiCcLGvFpekJPaiUSTuzqzF+Uv8y79JHfkU1D0KE3k/&#10;nKimK5tz3m8faYEyGNQw9iRjR7QpjZB079s7CWx1q/Ty9NmTFwFxpb/7vzlMSE2N&#10;Nc6SnTlJu6DlXQ34TPfnQbL36V11QydPEILx2UatQy+EtS3U2kqY6whximDOqj6f&#10;rNxoOwr/6L8kk/Qdr6k3p+MBM/jy35cAxWWimcnwPSsuWxSIh6IHHOdJAZlhBwX/&#10;GpUTAvjERPq6q6/1dcOaCoQSaoYu4Y3DIhaHBsphCeWd1qYihzThn/Hii9LU7hQq&#10;8wIDAQAB&#10;&#10;"/>
+  <Plantel clave="5" nombre="CABORCA"/>
+  <Alumno noexpediente="21050021" nombre="IVAN EVERARDO PINO AYON" curp="PIAI060524HSRNYVA9"/>
+  <Asignaturas total="0">
+    <Asignatura nombre="MATEMATICAS I" ciclo="1" calificacion="60.00"/>
+    <Asignatura nombre="MATEMATICAS II" ciclo="2" calificacion="76.00"/>
+    <Asignatura nombre="QUIMICA I" ciclo="1" calificacion="60.00"/>
+    <Asignatura nombre="QUIMICA II" ciclo="2" calificacion="69.00"/>
+    <Asignatura nombre="ETICA I" ciclo="1" calificacion="60.00"/>
+    <Asignatura nombre="ETICA II" ciclo="2" calificacion="61.00"/>
+    <Asignatura nombre="METODOLOGIA DE LA INVESTIGACION" ciclo="1" calificacion="68.00"/>
+    <Asignatura nombre="INTRODUCCION A LAS CIENCIAS SOCIALES" ciclo="2" calificacion="60.00"/>
+    <Asignatura nombre="TALLER DE LECTURA Y REDACCION I" ciclo="1" calificacion="60.00"/>
+    <Asignatura nombre="TALLER DE LECTURA Y REDACCION II" ciclo="2" calificacion="75.00"/>
+    <Asignatura nombre="INGLES I" ciclo="1" calificacion="60.00"/>
+    <Asignatura nombre="INGLES II" ciclo="2" calificacion="60.00"/>
+    <Asignatura nombre="INFORMATICA I" ciclo="1" calificacion="62.00"/>
+    <Asignatura nombre="INFORMATICA II" ciclo="2" calificacion="61.00"/>
+    <Asignatura nombre="ORIENTACION EDUCATIVA I" ciclo="1" calificacion="AC"/>
+    <Asignatura nombre="ACTIVIDADES DEPORTIVAS II" ciclo="2" calificacion="AC"/>
+    <Asignatura nombre="MATEMATICAS III" ciclo="3" calificacion="60.00"/>
+    <Asignatura nombre="MATEMATICAS IV" ciclo="4" calificacion="60.00"/>
+    <Asignatura nombre="BIOLOGIA I" ciclo="3" calificacion="82.00"/>
+    <Asignatura nombre="BIOLOGIA II" ciclo="4" calificacion="66.00"/>
+    <Asignatura nombre="FISICA I" ciclo="3" calificacion="71.00"/>
+    <Asignatura nombre="FISICA II" ciclo="4" calificacion="77.00"/>
+    <Asignatura nombre="HISTORIA DE MEXICO I" ciclo="3" calificacion="65.00"/>
+    <Asignatura nombre="HISTORIA DE MEXICO II" ciclo="4" calificacion="83.00"/>
+    <Asignatura nombre="LITERATURA I" ciclo="3" calificacion="71.00"/>
+    <Asignatura nombre="LITERATURA II" ciclo="4" calificacion="78.00"/>
+    <Asignatura nombre="INGLES III" ciclo="3" calificacion="86.00"/>
+    <Asignatura nombre="INGLES IV" ciclo="4" calificacion="69.00"/>
+    <Asignatura nombre="RECONOCE EL PROCEDIMIENTO CONSTRUCTIVO DE LOS ELEMENTOS QUE COMPONEN UNA CASA HABITACION" ciclo="3" calificacion="94.00"/>
+    <Asignatura nombre="ELABORA DE FORMA MANUAL LOS PLANOS DE UNA CASA HABITACION" ciclo="4" calificacion="89.00"/>
+    <Asignatura nombre="RECONOCE LOS MATERIALES, HERRAMIENTAS EQUIPOS Y MAQUINARIA UTILIZADAS EN LA CONSTRUCCION" ciclo="3" calificacion="89.00"/>
+    <Asignatura nombre="ELABORA LOS PLANOS DE UNA CASA HABITACION UTILIZANDO AUTOCAD" ciclo="4" calificacion="92.00"/>
+    <Asignatura nombre="GEOGRAFIA" ciclo="5" calificacion="82.00"/>
+    <Asignatura nombre="ECOLOGIA Y MEDIO AMBIENTE" ciclo="6" calificacion="83.00"/>
+    <Asignatura nombre="HISTORIA REGIONAL DE SONORA" ciclo="5" calificacion="79.00"/>
+    <Asignatura nombre="HISTORIA UNIVERSAL" ciclo="6" calificacion="82.00"/>
+    <Asignatura nombre="ESTRUCTURA SOCIOECONOMICA DE MEXICO" ciclo="5" calificacion="68.00"/>
+    <Asignatura nombre="FILOSOFIA" ciclo="6" calificacion="83.00"/>
+    <Asignatura nombre="TEMAS SELECTOS DE QUIMICA I" ciclo="5" calificacion="84.00"/>
+    <Asignatura nombre="CALCULO DIFERENCIAL E INTEGRAL II" ciclo="6" calificacion="65.00"/>
+    <Asignatura nombre="TEMAS SELECTOS DE BIOLOGIA I" ciclo="5" calificacion="73.00"/>
+    <Asignatura nombre="CIENCIAS DE LA SALUD II" ciclo="6" calificacion="67.00"/>
+    <Asignatura nombre="CIENCIAS DE LA SALUD I" ciclo="5" calificacion="72.00"/>
+    <Asignatura nombre="TEMAS SELECTOS DE BIOLOGIA II" ciclo="6" calificacion="67.00"/>
+    <Asignatura nombre="CALCULO DIFERENCIAL E INTEGRAL I" ciclo="5" calificacion="69.00"/>
+    <Asignatura nombre="TEMAS SELECTOS DE QUIMICA II" ciclo="6" calificacion="78.00"/>
+    <Asignatura nombre="REALIZA INSTALACIONES HIDROSANITARIAS  Y DE GAS PARA UNA CASA HABITACION" ciclo="5" calificacion="90.00"/>
+    <Asignatura nombre="CUANTIFICA MATERIALES EN LA CONSTRUCCION DE LOS DIVERSOS ELEMENTOS QUE FORMAN UNA CASA HABITACION" ciclo="6" calificacion="64.00"/>
+    <Asignatura nombre="REALIZA LAS INSTALACIONES ELECTRICAS EN UNA CASA HABITACION" ciclo="5" calificacion="79.00"/>
+    <Asignatura nombre="VERIFICA LA CORRECTA EJECUCION DE LOS PROCEDIMIENTOS CONSTRUCTIVOS DE UNA CASA HABITACION" ciclo="6" calificacion="83.00"/>
+  </Asignaturas>
+</CertificadoElectronico>

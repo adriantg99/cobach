@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CertificadoElectronico>
+  <FirmaAutoridadEducativa nombre="DR. RODRIGO ARTURO ROSAS BURGOS" certificado="10128" nocertificado="00001000000514247037" sello="&#10;MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhkwO4OKqtBYKuPJsaecc&#10;lOgiMvYkOP/ecTbili7afIiCcLGvFpekJPaiUSTuzqzF+Uv8y79JHfkU1D0KE3k/&#10;nKimK5tz3m8faYEyGNQw9iRjR7QpjZB079s7CWx1q/Ty9NmTFwFxpb/7vzlMSE2N&#10;Nc6SnTlJu6DlXQ34TPfnQbL36V11QydPEILx2UatQy+EtS3U2kqY6whximDOqj6f&#10;rNxoOwr/6L8kk/Qdr6k3p+MBM/jy35cAxWWimcnwPSsuWxSIh6IHHOdJAZlhBwX/&#10;GpUTAvjERPq6q6/1dcOaCoQSaoYu4Y3DIhaHBsphCeWd1qYihzThn/Hii9LU7hQq&#10;8wIDAQAB&#10;&#10;"/>
+  <Plantel clave="8" nombre="PROFR. ERNESTO LÓPEZ RIESGO"/>
+  <Alumno noexpediente="24080572" nombre="DULCE VALENTINA VILLEGAS VALENCIA" curp="VIVD090725MSRLLLA3"/>
+  <Asignaturas total="0">
+    <Asignatura nombre="PENSAMIENTO MATEMÁTICO I" ciclo="1" calificacion="87.00"/>
+    <Asignatura nombre="LA MATERIA Y SUS INTERACCIONES" ciclo="1" calificacion="92.00"/>
+    <Asignatura nombre="HUMANIDADES I" ciclo="1" calificacion="88.00"/>
+    <Asignatura nombre="CIENCIAS SOCIALES I" ciclo="1" calificacion="86.00"/>
+    <Asignatura nombre="LABORATORIO DE INVESTIGACIÓN" ciclo="1" calificacion="73.00"/>
+    <Asignatura nombre="LENGUA Y COMUNICACIÓN I" ciclo="1" calificacion="83.00"/>
+    <Asignatura nombre="INGLÉS I" ciclo="1" calificacion="82.00"/>
+    <Asignatura nombre="CULTURA DIGITAL I" ciclo="1" calificacion="78.00"/>
+    <Asignatura nombre="CURRICULUM AMPLIADO I" ciclo="1" calificacion="AC"/>
+  </Asignaturas>
+</CertificadoElectronico>
